@@ -1,4 +1,4 @@
-name: EduLogin
+name: TutorialLogin
 description: Sistema de Login funcional
 main: net.eduard.login.LoginPlugin
 version: 1.0

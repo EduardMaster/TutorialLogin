@@ -2,7 +2,7 @@ package net.eduard.login;
 
 import net.eduard.api.lib.storage.StorageAPI;
 import net.eduard.api.server.EduardPlugin;
-import net.eduard.login.events.LoginEvents;
+import net.eduard.login.listener.LoginEvents;
 import net.eduard.login.manager.LoginAPI;
 import net.eduard.login.manager.PlayerAccount;
 import net.eduard.login.manager.PlayerAccountManager;

@@ -1,4 +1,4 @@
-package net.eduard.login.events;
+package net.eduard.login.listener;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.PluginCommand;
